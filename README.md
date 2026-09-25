@@ -2,7 +2,7 @@
 
 A small, clean task manager built with React and Vite. Add tasks, mark them done, filter by status, and clear completed items.
 
-**Live demo:** _add your Vercel/Netlify link here after deploying_
+**Live demo:** [react-todo-tau-lime.vercel.app](https://react-todo-tau-lime.vercel.app/)
 
 ## Features
 
