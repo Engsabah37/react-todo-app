@@ -4,6 +4,8 @@ A small, clean task manager built with React and Vite. Add tasks, mark them done
 
 **Live demo:** [react-todo-tau-lime.vercel.app](https://react-todo-tau-lime.vercel.app/)
 
+<p align="center"><img src="screenshots/todo.png" alt="My Tasks app screenshot" width="420"></p>
+
 ## Features
 
 - Add, complete, and delete tasks
@@ -34,4 +36,8 @@ npm run preview
 
 ## Author
 
-Sabah Gomaa — [GitHub](https://github.com/Engsabah37) · [LinkedIn](https://www.linkedin.com/in/sabah-gomaa-90a8361b7)
+Eng. Sabah Gomaa — [GitHub](https://github.com/Engsabah37) · [LinkedIn](https://www.linkedin.com/in/sabah-gomaa-90a8361b7)
+
+## License
+
+[MIT](LICENSE)
